@@ -20,4 +20,4 @@ I experienced with how to layout, it's better to use netbeans IDE than Visual St
 It's really hard to modified button, label, background, and forebackground using Visual Studio Code. Well, it's better how to know move some of it i guess.
 We learning about how to make and import it on another file sound from RyiSnow with title "Sound - How to Make a 2D Game in Java #9"
 The sound importing is really simple than we thought and if you ask me about difficulty of coding this game, we (me and mukhlis) agreed that layouting and implementing
-the wrong and right answer of the question is hard. Connecting between game file is hard to but not as hard as layouting.
+the wrong and right answer of the question is hard. Connecting between game file is hard too but not as hard as layouting.
