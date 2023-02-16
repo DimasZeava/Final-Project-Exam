@@ -13,11 +13,11 @@ on the simple cashier, but unfortunately i'm lack on knowledge. No bonus point o
 NBQ - Nihon o Benkyou Quiz - 1st semester
 
 The NBQ is a game that i and my friends mukhlis made. It's simple japanese quiz game for N5.
-We making it by following instruction of Brocode tutorial with title "Java Quiz Game"
+We making it by following instruction of Brocode tutorial with title "Java Quiz Game".
 At first, we hard to understand basic of java swing and java awt. But with great explanation from Brocode, we understanding of basic java swing and java awt.
 Of course we open tutorial about how to make button, how to import image on java, how to import audio, how to make label and GUI.
 I experienced with how to layout, it's better to use netbeans IDE than Visual Studio Code. 
 It's really hard to modified button, label, background, and forebackground using Visual Studio Code. Well, it's better how to know move some of it i guess.
-We learning about how to make and import it on another file sound from RyiSnow with title "Sound - How to Make a 2D Game in Java #9"
+We learning about how to make and import it on another file sound from RyiSnow with title "Sound - How to Make a 2D Game in Java #9".
 The sound importing is really simple than we thought and if you ask me about difficulty of coding this game, we (me and mukhlis) agreed that layouting and implementing
 the wrong and right answer of the question is hard. Connecting between game file is hard too but not as hard as layouting.
