@@ -1,11 +1,8 @@
 # Final-Project-Exam
 The repository is contain about my exam that i learned in college.
 
-=======================================================================================================================================================================
-
 Bahasa Pemrograman UAS - 1st Semester
 
-=======================================================================================================================================================================
 It's a basic how to make a simple cashier, but the requirement of the final project is implementing method and can be accessed by owner, admin, and the cashier employee
 itself. The owner are allowed to see top 5 selling item, the admin can accessed the item of shop that contains deleting, changing item(name and price of the item),
 and adding the shop item that ready to be shown to the cashier, and the cashier can adding item based from consument want with simple calculator.
@@ -13,11 +10,8 @@ When i code this final project, i find quite difficult to make top selling item.
 option for someone to use it. The final project suggested to add top selling with item that have been sell to consument or some complex system that can be implemented
 on the simple cashier, but unfortunately i'm lack on knowledge. No bonus point on my last term final project i guess.
 
-========================================================================================================================================================================
-
 NBQ - Nihon o Benkyou Quiz - 1st semester
 
-========================================================================================================================================================================
 The NBQ is a game that i and my friends mukhlis made. It's simple japanese quiz game for N5.
 We making it by following instruction of Brocode tutorial with title "Java Quiz Game"
 At first, we hard to understand basic of java swing and java awt. But with great explanation from Brocode, we understanding of basic java swing and java awt.
